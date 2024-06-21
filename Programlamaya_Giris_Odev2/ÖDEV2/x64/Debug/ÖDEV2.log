@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\OneDrive\Desktop\ÖDEV2\Programlamaya_Giris_Odev2\ÖDEV2\Source.cpp(61,11): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\ÖDEV2\Programlamaya_Giris_Odev2\ÖDEV2\Source.cpp(103,11): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  ÖDEV2.vcxproj -> D:\OneDrive\Desktop\ÖDEV2\Programlamaya_Giris_Odev2\x64\Debug\ÖDEV2.exe
