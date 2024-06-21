@@ -1,0 +1,20 @@
+﻿  Kaynak.cpp
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(126,212): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(127,42): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(137,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(145,47): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(161,47): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(177,41): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(193,41): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(209,40): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(225,39): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(241,40): warning C4244: '=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(500,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,21): warning C4101: 'ö1': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,11): warning C4101: 'ks1': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,34): warning C4101: 'v': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,31): warning C4101: 'p': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,37): warning C4101: 'f': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,26): warning C4101: 'ö2': yerel değişken başvurusu kaldırıldı
+D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\Programlamaya Giriş Ödevi\Kaynak.cpp(497,16): warning C4101: 'ks2': yerel değişken başvurusu kaldırıldı
+  Programlamaya Giriş Ödevi.vcxproj -> D:\OneDrive\Desktop\Programlamaya Giriş Ödevi\Programlamaya_Giris_Odev1\x64\Debug\Programlamaya Giriş Ödevi.exe
